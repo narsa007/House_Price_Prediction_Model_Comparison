@@ -95,6 +95,7 @@ An Actual vs Predicted House Prices scatter plot was generated to visually evalu
 ## Project Structure
 
 AI_ML_Task2_Model_Comparison.ipynb – Notebook with model training, evaluation, and comparison
+
 Task2_Model_Comparison_Report.pdf – Report summarizing methodology and results
 
 
