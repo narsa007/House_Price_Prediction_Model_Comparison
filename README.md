@@ -1,7 +1,8 @@
 # AI & Machine Learning – Task 2
 Feature Engineering, Model Optimization & Performance Comparison
 
-Author: Narendra Kumar Sharma 
+Author: Narendra Kumar Sharma
+
 Internship Domain: Artificial Intelligence & Machine Learning  
 
 ---
